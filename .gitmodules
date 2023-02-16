@@ -1,0 +1,3 @@
+[submodule "submodules1"]
+	path = submodules1
+	url = https://github.com/jademarinho/submodoleteste.git
